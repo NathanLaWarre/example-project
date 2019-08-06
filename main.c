@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-//more changes
+//CONFLICTS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 int currentFeeling = 0, likeAPlasticBag = 0;
 string status;
 bool want, startAgain = true;
