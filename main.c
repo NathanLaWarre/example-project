@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-//adding comment to be able to have a new change to the file
+//more changes
 int currentFeeling = 0, likeAPlasticBag = 0;
 string status;
 bool want, startAgain = true;
