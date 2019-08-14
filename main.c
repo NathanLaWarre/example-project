@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-//making a change to show a staged file
+//making a change
 int currentFeeling = 0, likeAPlasticBag = 0;
 string status;
 bool want, startAgain = true;
